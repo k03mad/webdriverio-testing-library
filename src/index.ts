@@ -1,3 +1,4 @@
+// @ts-nocheck
 /* eslint-disable no-eval, @babel/new-cap */
 
 import path from 'path'

@@ -1,3 +1,11 @@
+fork diff:
+```diff
+-    "@testing-library/dom": "^8.17.1",
++    "@testing-library/dom": "10.4.0",
+```
+
+<hr />
+
 <div align="center">
 <h1>webdriverio-testing-library</h1>
 
